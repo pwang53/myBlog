@@ -1,3 +1,7 @@
+/* change cursor icon */
+body{cursor:url(http://wosn.net/zhizhen/normal.cur),default !important; } 
+a:hover{cursor:url(http://wosn.net/zhizhen/link.cur),pointer !important;}
+
 .my-padded-mini {
     padding: 0.3em !important;
 }
